@@ -1,0 +1,82 @@
+:root {
+  /* Core backgrounds */
+  --bg-base: #0a0a0f;
+  --bg-card: #13131a;
+  --bg-elevated: #1a1a24;
+  --bg-input: #0f0f18;
+  --bg-hover: #1e1e2e;
+
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --border-default: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.18);
+  --border-focus: rgba(139, 92, 246, 0.6);
+
+  /* Brand gradient */
+  --gradient-primary: linear-gradient(135deg, #7c3aed 0%, #3b82f6 100%);
+  --gradient-glow: linear-gradient(135deg, rgba(124, 58, 237, 0.15) 0%, rgba(59, 130, 246, 0.15) 100%);
+  --gradient-text: linear-gradient(135deg, #a78bfa 0%, #60a5fa 100%);
+
+  /* Accent colors */
+  --accent-purple: #7c3aed;
+  --accent-purple-light: #a78bfa;
+  --accent-blue: #3b82f6;
+  --accent-blue-light: #60a5fa;
+
+  /* Card accent colors */
+  --card-bold: #ff4d6d;
+  --card-bold-bg: rgba(255, 77, 109, 0.08);
+  --card-bold-border: rgba(255, 77, 109, 0.25);
+
+  --card-minimalist: #009B4D;
+  --card-minimalist-bg: rgba(0, 155, 77, 0.08);
+  --card-minimalist-border: rgba(0, 155, 77, 0.25);
+
+  --card-professional: #FAF5E9;
+  --card-professional-bg: rgba(250, 245, 233, 0.06);
+  --card-professional-border: rgba(250, 245, 233, 0.2);
+
+  --card-playful: #FFCC00;
+  --card-playful-bg: rgba(255, 204, 0, 0.08);
+  --card-playful-border: rgba(255, 204, 0, 0.25);
+
+  /* Text */
+  --text-primary: rgba(255, 255, 255, 0.95);
+  --text-secondary: rgba(255, 255, 255, 0.6);
+  --text-muted: rgba(255, 255, 255, 0.35);
+  --text-disabled: rgba(255, 255, 255, 0.2);
+
+  /* Typography */
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.4);
+  --shadow-elevated: 0 8px 40px rgba(0, 0, 0, 0.5);
+  --shadow-glow-purple: 0 0 30px rgba(124, 58, 237, 0.2);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 400ms ease;
+}
