@@ -29,7 +29,7 @@ const Header = () => (
             WebkitTextFillColor: 'transparent',
             backgroundClip: 'text',
             lineHeight: 1.2,
-          }}>Universal AI Copy Generator</div>
+          }}>Copy Loom</div>
           <div style={{ fontSize: '0.72rem', color: 'rgba(255,255,255,0.4)', marginTop: 2 }}>
             6 providers · 4 copy styles · zero lock-in
           </div>

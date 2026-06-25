@@ -16,7 +16,8 @@ const Footer = () => (
     }}>
       <span>🔒 Your API keys are saved only in your browser</span>
       <span style={{ opacity: 0.4 }}>·</span>
-      <span>Keys never leave your device</span>
+      <span>Designed & developed by <a href='https://www.linkedin.com/in/sudarshan-mishra/' target='_blank'>Sudarshan Mishra</a></span>
+      
     </Container>
   </footer>
 )
