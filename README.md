@@ -20,8 +20,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000)
-
 ## Getting a Free API Key
 
 Don't have an API key? **Groq is free and lightning fast:**
@@ -51,4 +49,4 @@ src/
 
 ## Security
 
-API keys are stored only in your browser's `localStorage` under `uaicg_api_keys`. They are never transmitted to any server other than the AI provider you select.
+API keys are stored only in your browser's `localStorage` . They are never transmitted to any server other than the AI provider you select.
